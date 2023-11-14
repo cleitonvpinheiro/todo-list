@@ -81,4 +81,9 @@ img {
     text-decoration: line-through;
 }
 
+@media screen and(max-width: 1020px){
+    .container{
+        flex-direction: column;
+    }
+}   
 
