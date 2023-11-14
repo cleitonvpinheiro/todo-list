@@ -2,6 +2,11 @@ const button = document.querySelector('.button-add-task')
 const input = document.querySelector('.input-task')
 const listaCompleta = document.querySelector('.list-task')
 
+function alterarConteudo() {
+  const conteudoElement = document.getElementById('conteudo');
+  conteudoElement.textContent = 'Conteúdo alterado dinamicamente!';
+}
+
 let minhaListaDeItens = []
 
 function adicionarNovaTarefa() {
