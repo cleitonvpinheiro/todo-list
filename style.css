@@ -7,7 +7,14 @@
 }
 
 body {
-    background: url("./img/background.png");
+    background: #708090;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    color:rgba(0, 0, 0, 0.2);
 }
 
 .container {
@@ -81,9 +88,18 @@ img {
     text-decoration: line-through;
 }
 
-@media screen and(max-width: 1020px){
+@media screen and(max-width: 600px){
+
+    h1 {
+        width: 100vw;
+    }
+    
     .container{
-        flex-direction: column;
+        width: 50%;
+    }
+
+    .list-task{
+        font-size: 30px;
+        width: 100vw;
     }
 }   
-
