@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O jokenPo é um projeto desenvolvido com mentoria do Rodolfo Mori, atravez de video aula no youtube com o intuito de aprender novas tecnologias.
+O Todo List é um projeto desenvolvido com mentoria do Rodolfo Mori, atravez de video aula no youtube com o intuito de aprender novas tecnologias.
 
 - [Acesse o projeto finalizado, online](https://projtodolist.netlify.app/)
